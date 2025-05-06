@@ -5,7 +5,7 @@
 
 ## 👩‍💼 About Me
 
-I’m a passionate full-stack web developer dedicated to building clean, scalable, and user-friendly web applications. Currently, I’m deepening my expertise in Python, Django, MERN and modern web technologies to craft impactful digital experiences.
+I’m a passionate full-stack web developer dedicated to building clean, scalable, and user-friendly web applications. Currently, I’m deepening my expertise in Python, Django, MERN, AI and modern web technologies to craft impactful digital experiences.
 
 </br>
 
