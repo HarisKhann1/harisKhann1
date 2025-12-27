@@ -6,7 +6,7 @@
 
 ## 👩‍💼 About Me
 
-I’m a passionate **full-stack web developer** focused on building clean, scalable, and user-friendly web applications. Currently, I am expanding my expertise in **Python**, **Django**, **MERN**, **AI**, and modern web technologies to create impactful digital experiences.
+I’m a **full-stack web developer** focused on building clean, scalable, and user-friendly web applications. Currently, I am expanding my expertise in **Python**, **Django**, **MERN**, **AI**, and modern web technologies to create impactful digital experiences.
 
 ### 🚀 What I Do
 - Build scalable and maintainable web apps with a focus on performance and user experience.
@@ -16,12 +16,12 @@ I’m a passionate **full-stack web developer** focused on building clean, scala
 </br>
 
 ## 🛠️ Skills & Tools
-- **Languages**: Python | JavaScript | Java | C  
+- **Languages**: Python | JavaScript | C++ 
 - **Frameworks**: Django | React | MERN  
 - **Databases**: MySQL  
 - **Web Technologies**: Tailwind CSS | Bootstrap | CSS | HTML  
 - **Version Control**: Git | GitHub  
-- **Others**: AI | Machine Learning | Cloud Computing  
+- **Others**: RAG | Agents
 
 </br>
 </br>
