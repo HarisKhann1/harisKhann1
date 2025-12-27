@@ -25,9 +25,3 @@ I’m a **full-stack web developer** focused on building clean, scalable, and us
 
 </br>
 </br>
-
-### 📊 GitHub Stats
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskhann1&show_icons=true&locale=en" alt="hariskhann1" />
-</p>
